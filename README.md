@@ -2,8 +2,6 @@
 
 - 📖 Estudante do IF Goiano
 - 💻 Programador
-- 🎹 Tecladista
-- ✝️ Cristão
 
 ### Estatísticas
 <div>
