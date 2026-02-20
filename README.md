@@ -6,7 +6,7 @@
 ### Sobre
 <div>
   <p>
-    Tenho Curso Técnico em Informática pelo Instituto Federal Goiano - Cammpus Cristalina e atualmente estou estudando na UniEVANGÉLICA - Anápolis, no curso de Engeharia de Software para aprofundar meus 
+    Tenho Curso Técnico em Informática pelo Instituto Federal Goiano - Cammpus Cristalina e atualmente estou estudando na UniEVANGÉLICA - Anápolis, no curso de Engenharia de Software para aprofundar meus 
     conhecimentos na tecnologias e aprimorar meus conhecimentos na programação.
   </p>
 </div>
