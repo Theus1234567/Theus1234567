@@ -6,7 +6,7 @@
 ### Sobre
 <div>
   <p>
-    Tenho Curso Técnico em Informática pelo Instituto Federal Goiano - Cammpus Cristalina e atualmente estou estudando na UniEVANGÉLICA - Anápolis, no curso de Engenharia de Software para aprofundar meus 
+    Tenho Curso Técnico em Informática pelo Instituto Federal Goiano - Campus Cristalina e atualmente estou estudando na UniEVANGÉLICA - Anápolis, no curso de Engenharia de Software para aprofundar meus 
     conhecimentos na tecnologias e aprimorar meus conhecimentos na programação.
   </p>
 </div>
@@ -23,6 +23,6 @@
 ## Rede Social e contato
 <div> 
   <a href="https://instagram.com/theus.keys" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheus.goncalves@estudante.ifgoiano.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:matheusgoncalves.oliveira@aluno.unievangelica.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
 </div>
